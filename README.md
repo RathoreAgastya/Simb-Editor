@@ -11,8 +11,8 @@ Agastya Rathore#7426
 
 Also for non python users
 
-In the .zip file you go to the executable directory the in the .exe folder directory 
-Then there should be a simb editor.exe file. Run that :)
+In the .zip file you go to the executable file directory then in the exe folder directory 
+In the main directory, there should be a simb editor.exe file. Run that :)
 
 
    ![Simb editor](https://user-images.githubusercontent.com/78737482/195833249-086f8cd0-9e0a-447a-80a3-f32192caa048.png)
